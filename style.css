@@ -1,0 +1,32 @@
+/*
+*,
+*::after,
+*::before{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrapper{
+
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: #ffffff;
+    /* color: aliceblue; 
+}
+
+.container{
+
+    width: 860px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 3rem;
+    position: relative;
+    
+}
+*/
+.icon {
+  font-size: 16px; /* Adjust as needed */
+}
